@@ -1,2 +1,6 @@
 This is line1
 This is line2
+<<<<<<< HEAD
+=======
+This is line3
+>>>>>>> 0b8513417a577d6d9a0d00930ca34e9fab9d667f
